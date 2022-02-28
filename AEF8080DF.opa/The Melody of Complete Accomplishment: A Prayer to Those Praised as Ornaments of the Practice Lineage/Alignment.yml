@@ -1,0 +1,31 @@
+segment_sources:
+  PD7DCD674:
+    type: origin_type
+    relation: translation
+    language: en
+  P1AD584AC:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  b6d2f6eeb95640568c9227ee72cfd9a0:
+    PD7DCD674: ab3ecdc0c68349bda629f177c41f3a37
+    P1AD584AC: c74f161bb1654f1b8bc9bca19160d04e
+  3b1883c406f44b7088595f90f3c2c093:
+    PD7DCD674: 9e8b99e83cd54b0aa7619859171dc52c
+    P1AD584AC: adc162a9dd7d41a08c88e62e6d2fee0d
+  ebf4555de02144828be4f486caa384e3:
+    PD7DCD674: 8be5e7d4bb74422b94f6f234a52e8b5c
+    P1AD584AC: 85f1e675834d4149a1a24b9915617aaf
+  f79d21d7f3a04ce9a1da5aa90df3c9f0:
+    PD7DCD674: 8384f9df6b9c486ea7c59b7458b368f8
+    P1AD584AC: 51612423477e4a6b9416341ac3bf8863
+  87cf08b9bd754e3aa9634eb8b5b63e99:
+    PD7DCD674: d3c0a2815ba3468196ed8a60cf1ba4d2
+    P1AD584AC: 0522fd3fc8f94fe4a6b0d133e1d77bf3
+  2152e9809d424b77afa7e0a6b9953f95:
+    PD7DCD674: c87775ec5a4c4c0bbfc72df635621a02
+    P1AD584AC: b757f1684b984de5856abee16fd1d78a
+  907b218f5ebc483fbd3c5e1f7a913611:
+    PD7DCD674: 846595ff574c4d8086d499c2d461a6e2
+    P1AD584AC: 186972c182344e0496a29396295525ef
